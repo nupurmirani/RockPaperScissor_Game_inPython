@@ -1,6 +1,3 @@
-Here's a detailed description of the provided code for the Rock, Paper, Scissors game that you can use for your GitHub repository:
-
----
 
 # Rock, Paper, Scissors Game
 
